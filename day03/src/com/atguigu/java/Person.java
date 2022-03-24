@@ -40,7 +40,7 @@ public class Person {
                 '}';
     }
     public void show() {
-        System.out.println("你好我是一个人");
+        System.out.println("你好我是一个好人");
     }
 
     private String showNation(String nation) {
